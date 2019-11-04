@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card {
+  text-align: center;
+  border-bottom-style: dashed;
+  font-size: 4rem;
+}
